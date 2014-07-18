@@ -1,3 +1,5 @@
+## Include Nano Syntax Highlighting
+include ~/.nano/_loadall.nanorc
 include ~/.nano/apache2.nanorc
 include ~/.nano/apacheconf.nanorc
 include ~/.nano/aptsrclist.nanorc
